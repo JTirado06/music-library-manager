@@ -1,0 +1,12 @@
+Levitating,Dua Lipa,204
+Respect,Aretha Franklin,149
+Smells Like Teen Spirit,Nirvana,302
+Bohemian Rhapsody,Queen,355
+Colors,Black Pumas,247
+Creep,Radiohead,239
+Ain't No Sunshine,Bill Withers,123
+Life on Mars?,David Bowie,236
+I Want You Back,Jackson 5,177
+Stayin Alive,Bee Gees,283
+Wonderwall,Oasis,259
+Sweet Child O' Mine,Guns N' Roses,356

@@ -1,0 +1,7 @@
+music-library
+*.o
+*.out
+*.exe
+.vscode/
+.idea/
+*.swp
