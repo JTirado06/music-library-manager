@@ -1,5 +1,7 @@
 # Music Library Manager
 
+[![C Build](https://github.com/JTirado06/music-library-manager/actions/workflows/build.yml/badge.svg)](https://github.com/JTirado06/music-library-manager/actions/workflows/build.yml)
+
 A command-line music catalog and playlist manager written in C. The application combines linked data structures, balanced search trees, and a max heap to organize songs and track listening activity.
 
 ## Features
@@ -116,3 +118,4 @@ This project evolved from a three-stage data-structures course project. Earlier 
 - Multiple named playlists
 - Unit tests for each data structure
 - A graphical or web-based interface
+- 
