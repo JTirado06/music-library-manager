@@ -78,6 +78,33 @@ Each catalog line uses this format:
 title,artist,duration_in_seconds
 ```
 
+## Example Usage
+
+```text
+Music Library Manager
+1. Display catalog
+2. Search for a song
+3. Add a song to playlist
+4. Remove a song from playlist
+5. Display playlist
+6. Play a song
+7. Display recently played
+8. Display popularity heap
+9. Exit
+
+Choose an option: 3
+Enter the exact song title: Bohemian Rhapsody
+Song added to playlist.
+
+Choose an option: 6
+Enter the exact song title: Bohemian Rhapsody
+Now playing: Bohemian Rhapsody - Queen (5:55)
+
+Choose an option: 8
+Bohemian Rhapsody - Queen (5:55) | plays: 1
+Most popular: Bohemian Rhapsody - Queen (5:55)
+```
+
 ## Background
 
 This project evolved from a three-stage data-structures course project. Earlier stages covered dynamic song storage, a linked-list playlist, and a recently played stack. A later stage supplied a driver and interfaces for a catalog application; I implemented the BST, AVL tree, and max-heap algorithms. I subsequently rewrote the supporting application, public interfaces, file loading, playlist module, and interactive menu to create this standalone portfolio version.
